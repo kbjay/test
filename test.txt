@@ -1,2 +1,2 @@
 master_content
-add new content
+add 2 to new content
