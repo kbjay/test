@@ -1,2 +1,2 @@
 master_content
-add  1 to new content
+add fun1 to new content by wiz
